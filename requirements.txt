@@ -1,0 +1,8 @@
+langchain-community
+langchain-groq
+langchain-core
+chromadb
+uuid
+python-dotenv
+streamlit
+pdfplumber

@@ -2,8 +2,6 @@ import pdfplumber
 import chromadb
 import uuid
 from chains import Chain
-import streamlit as st
-
 
 class Resume:
     def __init__(self):
