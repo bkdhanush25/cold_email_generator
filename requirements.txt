@@ -6,3 +6,4 @@ uuid
 python-dotenv
 streamlit
 pdfplumber
+pysqlite3-binary
