@@ -1,8 +1,5 @@
 import pdfplumber
 import chromadb
-__import__('pysqlite3')
-import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 import uuid
 from chains import Chain
 
