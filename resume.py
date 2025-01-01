@@ -1,5 +1,6 @@
 import pdfplumber
 import chromadb
+import sqlite3
 import uuid
 from chains import Chain
 
